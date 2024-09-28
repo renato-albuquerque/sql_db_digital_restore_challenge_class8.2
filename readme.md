@@ -1,6 +1,7 @@
 # Projeto de Banco de Dados - SQL/PostgreSQL
 
-Desenvolvimento de Projeto de Banco de Dados com SQL/PostgreSQL. `Desafios Aula 8.2, Questões 01-10, Módulo 01 (SQL).` 
+Desenvolvimento de Projeto de Banco de Dados com SQL/PostgreSQL.<br> 
+`Desafios Aula 8.2, Questões 01-10, Módulo 01 (SQL).` 
 
 Instituição: [Digital College Brasil](https://digitalcollege.com.br/) (Fortaleza/CE) <br>
 Curso: Data Analytics (Turma 18) <br>
